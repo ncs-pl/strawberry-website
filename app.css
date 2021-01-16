@@ -1,0 +1,25 @@
+body {
+  background-color: crimson;
+}
+
+.center {
+  text-align: center;
+}
+
+a.info {
+  color: black;
+}
+
+#fruit-eaten {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.title-bar {
+  background-color: crimson;
+}
+
+.footer {
+  background-color: crimson;
+  size: initial;
+}
